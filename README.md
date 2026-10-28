@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-happyhotel is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://happyhotel.io/
+Happyhotel provides revenue management software for hotels, hostels, and accommodation providers. Its platform enables dynamic room pricing, price optimisation, and revenue forecasting through data-driven algorithms. Customers can integrate the solution via APIs to automate pricing decisions, improve occupancy rates, and increase overall revenue. Happyhotel serves over 1,000 hotels worldwide, offering features such as rate shopping, profitability calculators, and customizable dashboards for revenue experts.
+
+**Areas:** Hotel · Revenue Management · SaaS · Hospitality · Pricing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://happyhotel.io/)
+- [Documentation](https://help.happyhotel.io/)
+- [Getting started](https://help.happyhotel.io/de/knowledge/so-l%C3%A4uft-dein-onboarding-bei-happyhotel-ab)
+- [Pricing](https://www.happyhotel.io/en/pricing)
+- [Support](https://help.happyhotel.io/de/knowledge?_gl=1*1it5ch0*_ga*MTMyNjU3NTY5My4xNzAzNjg4OTcx*_ga_7WYPRWVM8S*MTcwOTE5Njc0OS42LjEuMTcwOTE5NzIyMC41OC4wLjA.&_ga=2.72558619.942177208.1709196750-1326575693.1703688971)
+- [Blog](https://www.happyhotel.io/en/blog)
+- [Terms of service](https://www.happyhotel.io/en/legal-notice)
+- [Privacy policy](https://www.happyhotel.io/en/privacy-policy)
+- [GitHub](https://github.com/happyhotel)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/happyhotel/](https://apis.io/providers/happyhotel/).
